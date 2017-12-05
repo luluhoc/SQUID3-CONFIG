@@ -1,0 +1,1 @@
+# SQUID3 CONFIG
